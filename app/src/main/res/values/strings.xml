@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Moscow Afisha</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="author_info">Author: Gleb Nehaev RIBO–01–22</string>
+    <string name="event_title_placeholder">Event Title</string>
+    <string name="event_date_placeholder">Event Date</string>
+    <string name="event_place_placeholder">Event Place</string>
+    <string name="event_address_placeholder">Address</string>
+    <string name="event_age_placeholder">Age Restriction</string>
+    <string name="event_price_placeholder">Price</string>
+    <string name="event_website_placeholder">Website</string>
+    <string name="login_label">login</string>
+    <string name="event_price">Event Price</string>
+    <string name="age_restriction">Age Restriction</string>
+    <string name="photos_from_event">Photos from event</string>
+    <string name="ic_login_image">Afisha image</string>
+    <string name="btnPlaceGeo">Найти на картах</string>
+    <string name="eventimageDescription">EventImage</string>
+    <string name="geo_button">Показать на карте</string>
+</resources>
